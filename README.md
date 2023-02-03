@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vipin Kumar
-- 👀 I’m interested in Data Science | Automation
-- 🌱 I’m currently learning IT Automation
-- 💞️ I’m looking to collaborate on new projects related to Python
+- 👀 I’m interested in learning new stuffs 
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on new projects related to Machine Learning
 - 📫 Reach me on email @vipinkr3000@gmail.com
 
 <!---
