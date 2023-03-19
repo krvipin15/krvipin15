@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vipin Kumar
 - 👀 I’m interested in learning new stuffs 
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on new projects related to Machine Learning
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on new projects related to Data Analytics
 - 📫 Reach me on email @vipinkr3000@gmail.com
 
 <!---
