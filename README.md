@@ -1,3 +1,5 @@
+![image](https://e0.pxfuel.com/wallpapers/621/148/desktop-wallpaper-big-data-industry-summit-oil-gas-data-visualization.jpg)
+
 👋 Hello, I'm Vipin Kumar!
 
 📊 Data Enthusiast | 📈 Machine Learning Enthusiast | 📉 Analytics Lover
@@ -8,18 +10,12 @@
 
 💡 I believe data can drive innovation and create positive impacts in various domains. My goal is to leverage data-driven approaches to solve real-world challenges and contribute to a better future.
 
-🛠️ I'm proficient in Python, R, SQL, and various data manipulation and visualization libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+🛠️ I'm proficient in Python, R, SQL, and various data manipulation and visualization libraries like Pandas, NumPy, Matplotlib, Seaborn and Plotly.
 
 🚀 Always eager to collaborate on exciting data projects and keen to learn from fellow data enthusiasts. Let's connect and create something amazing together!
 
 📫 You can reach me via email at <vipinkr3000@gmail.com> or find me on [LinkedIn](https://www.linkedin.com/in/krvipin15/).
 
-🌐 Check out my portfolio and the latest data projects on: <https://public.tableau.com/app/profile/krvipin15> 
+🌐 Check out my portfolio on: [Tableau Public](https://public.tableau.com/app/profile/krvipin15) and the latest data projects on [Github](https://github.com/krvipin15/Data-Analytics-Project)
 
 Happy exploring and analyzing! 🤓📊📈
-
-
-<!---
-krvipin15/krvipin15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
