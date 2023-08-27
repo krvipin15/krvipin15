@@ -1,4 +1,4 @@
-![image](https://e0.pxfuel.com/wallpapers/621/148/desktop-wallpaper-big-data-industry-summit-oil-gas-data-visualization.jpg)
+![image](https://sloovi-blogs.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/07/16105544/1-best-sales-software.webp)
 
 👋 Hello, I'm Vipin Kumar!
 
