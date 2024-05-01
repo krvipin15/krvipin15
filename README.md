@@ -1,21 +1,17 @@
-![image](https://sloovi-blogs.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/07/16105544/1-best-sales-software.webp)
+# 💫 About Me:
+👋 Hello, I'm Vipin Kumar!<br><br>📊 Data Enthusiast | 📈 Machine Learning Enthusiast | 📉 Analytics Lover<br><br>🔭 Exploring the depths of data and uncovering meaningful insights is my passion. I thrive on transforming raw data into actionable knowledge.<br><br>🌱 I’m constantly learning and honing my skills in data analysis, data visualization, and machine learning. From cleaning and wrangling datasets to building predictive models, I enjoy every step of the data journey.<br><br>💡 I believe data can drive innovation and create positive impacts in various domains. My goal is to leverage data-driven approaches to solve real-world challenges and contribute to a better future.<br><br>🛠️ I'm proficient in Python, SQL, and various data manipulation and visualization libraries like Pandas, NumPy, Matplotlib, Seaborn and Plotly.<br><br>🚀 Always eager to collaborate on exciting data projects and keen to learn from fellow data enthusiasts. Let's connect and create something amazing together!<br><br>📫 You can reach me via email at vipinkr3000@gmail.com<br><br>Happy exploring and analyzing! 🤓📊📈
 
-👋 Hello, I'm Vipin Kumar!
 
-📊 Data Enthusiast | 📈 Machine Learning Enthusiast | 📉 Analytics Lover
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krvipin15) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krvipin15) 
 
-🔭 Exploring the depths of data and uncovering meaningful insights is my passion. I thrive on transforming raw data into actionable knowledge.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krvipin15&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=krvipin15&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krvipin15&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=krvipin15&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-🌱 I’m constantly learning and honing my skills in data analysis, data visualization, and machine learning. From cleaning and wrangling datasets to building predictive models, I enjoy every step of the data journey.
-
-💡 I believe data can drive innovation and create positive impacts in various domains. My goal is to leverage data-driven approaches to solve real-world challenges and contribute to a better future.
-
-🛠️ I'm proficient in Python, R, SQL, and various data manipulation and visualization libraries like Pandas, NumPy, Matplotlib, Seaborn and Plotly.
-
-🚀 Always eager to collaborate on exciting data projects and keen to learn from fellow data enthusiasts. Let's connect and create something amazing together!
-
-📫 You can reach me via email at <vipinkr3000@gmail.com> or find me on [LinkedIn](https://www.linkedin.com/in/krvipin15/).
-
-🌐 Check out my portfolio on: [Tableau Public](https://public.tableau.com/app/profile/krvipin15) and the latest data projects on [Github](https://github.com/krvipin15/Data-Analytics-Project)
-
-Happy exploring and analyzing! 🤓📊📈
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
