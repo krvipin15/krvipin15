@@ -1,21 +1,81 @@
-# 💫 About Me:
-I’m **Vipin Kumar**, a tech enthusiast and aspiring Machine Learning Engineer with a deep curiosity for how data can drive real-world solutions. Starting out in Mechanical Engineering gave me a solid problem-solving foundation, but my passion grew when I discovered the power of artificial intelligence and machine learning. I enjoy transforming raw, unstructured data into clear, actionable insights and building intelligent systems that last. Constantly learning and exploring new tools, I’m driven by the challenge of solving complex problems and love collaborating with others who share the same excitement for technology and innovation.
+<div align="center">
 
+# Hi, I'm Vipin 👋
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/krvipin15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krvipin15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krvipin15) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krvipin15) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krvipin15) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@krvipin15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krvipin15@tutamail.com) 
+### Mechanical Engineer → Data Scientist, building end-to-end ML systems that ship
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krvipin15&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krvipin15&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krvipin15&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/Email-krvipin15%40tutamail.com-red?style=flat-square&logo=protonmail&logoColor=white)](mailto:krvipin15@tutamail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-krvipin15-181717?style=flat-square&logo=github)](https://github.com/krvipin15)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krvipin15&limit=5&theme=default&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krvipin15&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 About Me
+
+I transitioned into Data Science from a mechanical engineering background, and it shows in how I work — I care as much about whether a system holds up under real conditions as I do about model accuracy. I build things end-to-end: data pipelines, model training, serving infrastructure, and the deployment plumbing that makes it all actually run in production, not just in a notebook.
+
+- 🔭 Currently building **production-grade MLOps pipelines** with reproducible, containerized deployments
+- 🌱 Learning by shipping — every project goes through CI/CD, containerization, and real deployment, not just `model.fit()`
+- 🐛 I enjoy debugging production issues almost as much as building the feature in the first place
+- 📫 Reach me at **krvipin15@tutamail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)
+
+</div>
+
+---
+
+### 📌 Featured Project
+
+<div align="center">
+
+#### [🔗 Churn Prediction](https://github.com/krvipin15/churn-prediction)
+
+*Production-grade MLOps pipeline for predicting customer churn — from data ingestion to a live, containerized serving stack.*
+
+[![CI](https://github.com/krvipin15/churn-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/krvipin15/churn-prediction/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/badge/docs-mkdocs--material-blue)](https://krvipin15.github.io/churn-prediction/)
+[![License: MIT](https://img.shields.io/github/license/krvipin15/churn-prediction)](https://github.com/krvipin15/churn-prediction/blob/main/LICENSE)
+
+</div>
+
+- 🧠 XGBoost model achieving **0.92 ROC-AUC** on 594K+ customer records, with threshold tuning that raised churner recall from 64% → 78.5%
+- ⚙️ DVC-orchestrated pipeline (ingest → validate → preprocess → validate → train) with Pandera schema validation
+- 🚀 FastAPI inference service + Streamlit dashboard, containerized with Podman and published to GHCR
+- ✅ CI/CD with CodeQL, OSV-Scanner, Dependabot, and 23 pre-commit hooks across 12 tools
+- 📖 Full [documentation site](https://krvipin15.github.io/churn-prediction/) with API reference auto-generated from docstrings
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=krvipin15&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=krvipin15&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to Software Engineering / Data Science internship and entry-level opportunities.*
+
+</div>
